@@ -22,7 +22,7 @@ public class Pracownik{
     }
 
     public String przedstawSie(){
-        return "Jestem pracownik: " + imie + " " + nazwisko;
+        return "Jestem : " + imie + " " + nazwisko;
     }
 
     public String getImie(){
